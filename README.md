@@ -1,5 +1,5 @@
 ### Hello 👋
-<img align="right" src="file:///Users/leehyeeun/Desktop/R1024x0.JPG" width="300">
+<img align="right" src="//Users/leehyeeun/Desktop/R1024x0.JPG" width="300">
 
 <!--
 **HEUNNN/HEUNNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
