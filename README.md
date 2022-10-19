@@ -2,7 +2,6 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<div>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
@@ -13,7 +12,6 @@
     <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=Amazon EC2&logoColor=FF9A00">
     <img src="https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
     <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-</div>
 </p>
 
 
